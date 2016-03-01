@@ -1,0 +1,24 @@
+print "What's your first name?"
+first_name=gets.chomp
+puts " #{first_name.capitalize!}"
+
+
+print "What's your last name?"
+last_name=gets.chomp
+puts "#{last_name.capitalize!}"
+
+print "What city are you from?"
+city=gets.chomp
+puts"#{city.capitalize!}"
+
+print "What State or province are you from?"
+state=gets.chomp
+puts "#{state.upcase!}"
+
+first_name="Daniel"
+last_name="Williams"
+city="Merced"
+state="CA"
+puts "Your name is #{first_name} #{last_name}"
+puts "From #{city}, #{state}"
+
