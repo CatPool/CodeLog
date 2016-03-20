@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>My goals before 30
+	<ol>
+	    <li>Learn all the codes
+	    <li>Register for school
+	    <li>Change major to C.S
+	    <li>Apply for internship
+	    <li>Get job at tech firm
+	</ol>
+	    <h2> Goals before 60
+	    <ol>
+	 <li> Have $1,000,000 in bank account
+	 <li> Have $250,000 in Kians account
+	 <li> Have $250,000 in Daniel's account
+	 <li> Have $250,000 in Levi's account
+	 <li> Have $250,000 in Arealyn account
+    </ol>
+	    
+	    </h2>
+	    
+	 <h3>
+	 <ol>   Goals before years end
+	    <li> Learn all the codes
+	    <li> Register for school
+	    <li> Apply to tech firm
+	    <li> Save $9001 for new year
+	 </ol>
+	    </h3>
+	 
+	    
+	</body>
+</html>

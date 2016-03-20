@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Html is prety easy</title>
+	</head>
+	<body><h1>GENOS</h1>
+<a href="http://kasai.deviantart.com/art/One-Punch-Man-Genos-576108139">	<img src="http://orig06.deviantart.net/7707/f/2015/338/d/e/opm1_tumblr_by_evil_usagi-d9izzvv.jpg" />
+<a>http://kasai.deviantart.com/art/One-Punch-Man-Genos-576108139</a>
+		<p>This is Genos</p>
+		<p>He is a cyborg</p>
+		<p>He eats sandwiches</p>
+	</body>
+</html>
