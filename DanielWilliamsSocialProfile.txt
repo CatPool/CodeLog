@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head="color: red; background-color: black">
+		<title><strong><em>Daniel A Williams</em></strong></title>
+	</head>
+	<body><img src=http://img-cache.cdn.gaiaonline.com/0dce7ff69064f1595b098acdb14c8104/http://i232.photobucket.com/albums/ee3/taytay_euphemism/gavin2.jpg />
+	   <ol>
+	   <ul>
+	    <li>Name: Daniel Alonso Williams  </li>                     <li>Age:27</li>
+	    <li>Gender: Male</li>
+	    <li>Nationality: American
+	    <li>Height: 68"(5'8")</li>
+	    <li>Weight: 175 lbs<li> </ul>
+	    </ol>
+	    
+	    <ul>
+	        <li>Programming Languages Known
+	            <ol style="font-family:Ariel; font-size: 16px">
+	             <li>HTML</li>
+	             <li>CSS</li>
+	             <li>JavaScript</li>
+	             <li>jQuery</li>
+	             <li>AngularJS</li>
+	             <li>Commandline</li>
+	             <li>Ruby
+	                <ul>
+	             <li>R.O.R(Rails)</li></ul>
+	             <li>PHP</li>
+	             <li>Python</li>
+	             <li>Android</li>
+	             </ol>
+	       </li>
+	   </ul>
+	    
+       My name is Daniel Alonso Williams. I come from a small town named Merced, in the great state of California.I am interested in a lot of things like coding, Dance Gavin Dance's music, working out, improving myself, solving problems to any given situation,spending time with family,hanging out with Jess,but the most interesting thing I find is robotics, more specifically in the field of artificial intelligence (A.I.). HTML and CSS are ok. Gotta know the basics though I suppose. I'm interested in Software development primarily because I have a dream of one day building my own custom 1950's themed home. Retro, modern, connected with a personally customizable robotic butler. Each family will be able to give their own Robotic servant a name. If no name is chosen Cervantes, will be the default name.There will be multiple robots and they will be so advanced that they can be financed. 
+                                                             
+                                                             </p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</body>
+</html>
